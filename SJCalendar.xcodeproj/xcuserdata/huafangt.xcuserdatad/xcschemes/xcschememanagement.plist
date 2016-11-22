@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SJCalendar.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>SJCalendarDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>D80061031DE41B9300D34A37</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D800610C1DE41B9300D34A37</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D80061371DE41ECD00D34A37</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D800614F1DE41ECD00D34A37</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
